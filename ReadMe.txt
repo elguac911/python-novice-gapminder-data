@@ -4,5 +4,3 @@ Software carpentry Notes
 
 Navigate files using shell
 GitHub
-
-Parangaricutirimucuaro

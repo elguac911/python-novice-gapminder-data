@@ -1,0 +1,122 @@
+    1  pwd
+    2  ls
+    3  explorer.exe .
+    4  explorer.exe
+    5  explorer.exe .
+    6  ls
+    7  cd python-novice-gapminder-data/
+    8  pwd
+    9  ls
+   10  cd data/
+   11  pwd
+   12  ls
+   13  cd ..
+   14  ls
+   15  cd ..
+   16  ls
+   17  cd lopezjoaquin/
+   18  cd lopezjoaquin/python-novice-gapminder-data/
+   19  cd lopezjoaquin/ python-novice-gapminder-data/data/
+   20  cd lopezjoaquin/python-novice-gapminder-data/data/
+   21  pwd
+   22  list
+   23  ls
+   24  cd python-novice-gapminder-data/
+   25  ls
+   26  ls data
+   27  cd
+   28  ls
+   29  python-novice-gapminder-data/
+   30  ls
+   31  pwd
+   32  cd /
+   33  ls
+   34  mnt
+   35  ls
+   36  cd Users
+   37  cd ..
+   38  cd /mnt/c/Users/lopezjoaquin
+   39  cd /mnt
+   40  ls
+   41  cd c
+   42  ls
+   43  cd Users
+   44  ls
+   45  cd lopez
+   46  ls
+   47  cd
+   48  cd /mnt/c/Users/lopez
+   49  ls
+   50  cd
+   51  cd --help
+   52  ls --help
+   53  cd python-novice-gapminder-data/
+   54  cd
+   55  cd python-novice-gapminder-data/ ls
+   56  cd python-novice-gapminder-data/
+   57  ls
+   58  cd data
+   59  ls
+   60  --all
+   61  ls
+   62  cd
+   63  cd ~/python-novice-gapminder-data/data/
+   64  ls -l
+   65  ls -lh
+   66  mkdir carpentries
+   67  ls
+   68  rm carpentries
+   69  rm -r carpentries
+   70  ls
+   71  touch file
+   72  ls
+   73  ls -lh
+   74  ls
+   75  mv file gapminder_all.csv
+   76  ls folder
+   77  mkdir folder
+   78  mv file gapminder_all.csv
+   79  ls
+   80  nano file
+   81  history
+   82  history > history.txt
+   83  ls
+   84  nano history.txt
+   85  rm -r history.txt
+   86  ls
+   87  mkdir 5minPractice
+   88  ls
+   89  cd 5minPractice
+   90  touch file
+   91  ls
+   92  nano file
+   93  ls
+   94  rm -i file
+   95  ls
+   96  cp 'file edited' file_edited.txt
+   97  ls
+   98  rm 'file edited'
+   99  ls
+  100  cp file_edited.txt ../file_edited.txt 
+  101  cd ..
+  102  ls
+  103  cd 5minPractice
+  104  ls
+  105  cat file_edited.txt
+  106  nano script.sh
+  107  ls
+  108  ./script.sh
+  109  sudo ./script.sh
+  110  ls -lh
+  111  sudo chmod +x script.sh
+  112  ./script.sh
+  113  history
+  114  cd ..
+  115  ls
+  116  mkdir History_of_Commands
+  117  ls
+  118  cd History_of_Commands/
+  119  touch history
+  120  ls
+  121  nano history
+  122  history > history.txt
